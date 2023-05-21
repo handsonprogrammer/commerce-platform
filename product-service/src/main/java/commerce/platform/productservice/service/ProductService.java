@@ -1,6 +1,5 @@
 package commerce.platform.productservice.service;
 
-import commerce.platform.model.Train;
 import commerce.platform.productservice.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
