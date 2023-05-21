@@ -1,0 +1,16 @@
+#Ignore systemfiles
+.DS_Store
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore IDE directories
+.idea
+.vscode
+*.code-workspace
+
+# Ignore Java output directory
+bin
