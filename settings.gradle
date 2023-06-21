@@ -13,3 +13,5 @@ include('product-service')
 include('inventory-service')
 include 'shared'
 include 'discovery-server'
+include 'api-gateway'
+
